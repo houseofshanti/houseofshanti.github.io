@@ -16,7 +16,7 @@ Since then, I've lead and conducted numerous AWS security assessments as part of
 
 The exam is comprised of 65 multiple choice questions in 170 (2hr 50) minutes. There's different content domains the exam covers and it's broken down in the following:
 
-![Breakdown of AWS exam](/assets/img/aws_1.PNG)
+![Breakdown of AWS exam](/assets/img/aws_1.png)
 _AWS Security Specialty exam breakdown._
 
 Due to COVID-19, there was an option to take the exam online remotely with a computer installed with proctoring software. There was an examination centre close to me and it was open, so I decided to take the exam there.
