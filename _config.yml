@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   Exploit dev with a sprinkle of Cloud. 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://houseofshanti.github.io"
+url: 'https://houseofshanti.github.io'
 
 github:
   username: houseofshanti # change to your github username
